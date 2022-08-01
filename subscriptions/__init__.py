@@ -2,7 +2,7 @@
 import sys
 import re
 import warnings
-import django
+# import django
 
 __version__ = '0.15.1'
 
